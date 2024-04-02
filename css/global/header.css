@@ -27,10 +27,7 @@
   display: inline-block;
   /* O tamanho do gap já dá um bom distanciamento lateral */
   padding: 16px 0px;
-  font-size: 18px;
   position: relative;
-  font-family: "Poppins";
-  font-weight: 400;
 }
 
 /* Efeito de sublinhado animado*/
