@@ -1,0 +1,29 @@
+body {
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  /* pra conseguir dar scroll, e ver como estar ficando */
+  padding-bottom: 600px;
+  color: #111111;
+}
+
+h1,
+ul,
+p {
+  margin: 0px;
+}
+
+ul {
+  padding: 0px;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  /* Tem valores que não são erdados do pai, então inherit serve pra mudar isso */
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
