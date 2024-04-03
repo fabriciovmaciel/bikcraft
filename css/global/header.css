@@ -33,14 +33,14 @@
   display: block;
   height: 2px;
   width: 0%;
-  background: var(--cor-0);
+  background: var(--cor-p1);
   margin-top: 4px;
-  transition: 0.3s;
+  transition: 0.2s;
   position: absolute;
 }
 
 .header-menu a:hover:after {
-  width: 50%;
+  width: 100%;
 }
 
 /* Abaixo de 800px */
