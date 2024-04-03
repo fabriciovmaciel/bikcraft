@@ -11,7 +11,8 @@ h2,
 h3,
 h4,
 ul,
-p {
+p,
+blockquote {
   margin: 0px;
 }
 
@@ -32,6 +33,6 @@ img {
 }
 
 /* Somente imagens com o final "JPG" terá border-radius */
-img [src$=".jpg"] {
+img[src$=".jpg"] {
   border-radius: 4px;
 }

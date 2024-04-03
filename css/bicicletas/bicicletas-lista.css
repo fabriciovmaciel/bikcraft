@@ -45,11 +45,11 @@
   width: 12px;
   margin-right: 8px;
   background-color: var(--cor-p1);
-  transition: 0.3s;
+  transition: 0.2s;
 }
 
 .bicicletas-lista a:hover h3::before {
-  width: 36px;
+  width: 16px;
   background-color: var(--cor-p5);
 }
 
