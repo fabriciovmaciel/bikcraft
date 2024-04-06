@@ -52,10 +52,8 @@
   position: absolute;
 }
 
-.footer a:hover::after,
-.footer a:hover {
+.footer a:hover::after {
   width: 100%;
-  color: var(--cor-p1);
 }
 
 .footer-copy {
