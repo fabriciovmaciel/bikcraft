@@ -70,6 +70,9 @@
 }
 
 @media (max-width: 800px) {
+  #seguros h1 {
+    margin-bottom: 32px;
+  }
   .seguros {
     grid-template-columns: 1fr;
   }
